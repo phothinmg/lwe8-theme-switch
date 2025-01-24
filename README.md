@@ -1,18 +1,16 @@
 <div align="center">
-<img src="./public/logo.png" alt="logo" width="180px">
+<img src="https://github.com/phothinmg/lwe8-theme-switch/blob/main/public/logo.png" alt="logo" width="180px">
 <h1>Theme Switcher</h1>
 </div>
-
 
 <div>
 <h2>About</h2>
 
 <p>Theme switcher for React and TailwindCSS latest(React v19 and Tailwind v4)</p>
 
-<img src="./public/sdl.png" alt="sld" width="180px"><img src="./public/dl.png" alt="dl" width="180px" height="105px">
+<img src="https://github.com/phothinmg/lwe8-theme-switch/blob/main/public/sdl.png" alt="sld" width="180px"><img src="https://github.com/phothinmg/lwe8-theme-switch/blob/main/public/dl.png" alt="dl" width="180px" height="105px">
 
 </div>
-
 
 ## Install
 
@@ -133,5 +131,3 @@ btnType?: "light-icon" | "with-system";
   <ThemeSwitch btnType="light-icon" />
 </div>
 ```
-
-
