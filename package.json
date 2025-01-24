@@ -37,7 +37,6 @@
     "@types/react": "^19.0.8",
     "babel-preset-minify": "^0.5.2",
     "dax-sh": "^0.42.0",
-    "react": "^19.0.0",
     "typescript": "^5.7.3"
   },
   "pnpm": {
@@ -45,5 +44,8 @@
       "glob": "7.2.3",
       "inflight": "1.0.6"
     }
+  },
+  "dependencies": {
+    "react": "^19.0.0"
   }
 }

@@ -7,11 +7,11 @@
     "skipLibCheck": true,
     "jsx": "react",
     "module": "ESNext",
-    "outDir": "./dist",
+    "outDir": "./opt",
+    "declarationDir": "./dist",
     "moduleResolution": "node",
     "allowSyntheticDefaultImports": true,
-    "declaration": true,
-    "sourceMap": true
+    "declaration": true
   },
   "include": ["./src/**/*"]
 }
